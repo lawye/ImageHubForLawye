@@ -1,0 +1,211 @@
+2020-05-11 09:57:27.534477 [info]: [09:57:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+
+2020-05-11 09:57:27.538112 [info]: [09:57:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+
+2020-05-11 09:57:27.549136 [info]: [09:57:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+
+2020-05-11 09:57:27.551072 [info]: [09:57:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+
+2020-05-11 09:57:27.559107 [info]: [09:57:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+
+2020-05-11 09:57:27.776658 [info]: [09:57:27] [Server thread/INFO]: Starting minecraft server version 1.15.2
+
+2020-05-11 09:57:27.777036 [info]: [09:57:27] [Server thread/INFO]: Loading properties
+
+2020-05-11 09:57:27.777863 [info]: [09:57:27] [Server thread/INFO]: Default game type: SURVIVAL
+
+2020-05-11 09:57:27.777939 [info]: [09:57:27] [Server thread/INFO]: Generating keypair
+
+2020-05-11 09:57:27.967289 [info]: [09:57:27] [Server thread/INFO]: Starting Minecraft server on *:0
+
+2020-05-11 09:57:28.018809 [info]: [09:57:28] [Server thread/INFO]: Using epoll channel type
+
+2020-05-11 09:57:28.263285 [info]: [09:57:28] [Server thread/INFO]: Preparing level "world"
+
+2020-05-11 09:57:28.370745 [info]: [09:57:28] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+
+2020-05-11 09:57:28.373584 [info]: [09:57:28] [Server thread/INFO]: Reloading ResourceManager: Default
+
+2020-05-11 09:57:29.024492 [info]: [09:57:29] [Server thread/INFO]: Loaded 6 recipes
+
+2020-05-11 09:57:29.516066 [info]: [09:57:29] [Server thread/INFO]: Loaded 825 advancements
+
+2020-05-11 09:57:38.930680 [info]: [09:57:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+
+2020-05-11 09:57:39.066412 [info]: [09:57:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 09:57:39.436264 [info]: [09:57:39] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+
+2020-05-11 09:57:39.930662 [info]: [09:57:39] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+
+2020-05-11 09:57:40.434015 [info]: [09:57:40] [Server-Worker-1/INFO]: Preparing spawn area: 1%
+
+2020-05-11 09:57:40.930721 [info]: [09:57:40] [Server-Worker-1/INFO]: Preparing spawn area: 2%
+
+2020-05-11 09:57:41.440107 [info]: [09:57:41] [Server-Worker-2/INFO]: Preparing spawn area: 5%
+
+2020-05-11 09:57:41.934445 [info]: [09:57:41] [Server-Worker-2/INFO]: Preparing spawn area: 6%
+
+2020-05-11 09:57:42.435342 [info]: [09:57:42] [Server-Worker-3/INFO]: Preparing spawn area: 8%
+
+2020-05-11 09:57:42.930926 [info]: [09:57:42] [Server-Worker-1/INFO]: Preparing spawn area: 11%
+
+2020-05-11 09:57:43.639277 [info]: [09:57:43] [Server-Worker-1/INFO]: Preparing spawn area: 11%
+
+2020-05-11 09:57:43.934655 [info]: [09:57:43] [Server-Worker-2/INFO]: Preparing spawn area: 23%
+
+2020-05-11 09:57:44.434059 [info]: [09:57:44] [Server-Worker-2/INFO]: Preparing spawn area: 24%
+
+2020-05-11 09:57:44.958190 [info]: [09:57:44] [Server-Worker-3/INFO]: Preparing spawn area: 27%
+
+2020-05-11 09:57:45.431199 [info]: [09:57:45] [Server-Worker-2/INFO]: Preparing spawn area: 31%
+
+2020-05-11 09:57:45.939090 [info]: [09:57:45] [Server-Worker-1/INFO]: Preparing spawn area: 37%
+
+2020-05-11 09:57:46.431073 [info]: [09:57:46] [Server-Worker-2/INFO]: Preparing spawn area: 42%
+
+2020-05-11 09:57:46.932039 [info]: [09:57:46] [Server-Worker-3/INFO]: Preparing spawn area: 46%
+
+2020-05-11 09:57:47.434643 [info]: [09:57:47] [Server-Worker-2/INFO]: Preparing spawn area: 55%
+
+2020-05-11 09:57:47.932799 [info]: [09:57:47] [Server-Worker-2/INFO]: Preparing spawn area: 63%
+
+2020-05-11 09:57:48.470269 [info]: [09:57:48] [Server-Worker-3/INFO]: Preparing spawn area: 68%
+
+2020-05-11 09:57:48.931449 [info]: [09:57:48] [Server-Worker-2/INFO]: Preparing spawn area: 73%
+
+2020-05-11 09:57:49.628955 [info]: [09:57:49] [Server-Worker-3/INFO]: Preparing spawn area: 79%
+
+2020-05-11 09:57:50.219285 [info]: [09:57:50] [Server-Worker-3/INFO]: Preparing spawn area: 82%
+
+2020-05-11 09:57:50.472330 [info]: [09:57:50] [Server-Worker-2/INFO]: Preparing spawn area: 88%
+
+2020-05-11 09:57:51.139402 [info]: [09:57:51] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+
+2020-05-11 09:57:51.421487 [info]: [09:57:51] [Server thread/INFO]: Time elapsed: 12492 ms
+
+2020-05-11 09:57:51.422450 [info]: [09:57:51] [Server thread/INFO]: Done (23.159s)! For help, type "help"
+
+2020-05-11 09:58:52.736743 [info]: [09:58:52] [Server thread/INFO]: Stopping the server
+
+2020-05-11 09:58:52.779946 [info]: [09:58:52] [Server thread/INFO]: Stopping server
+
+2020-05-11 09:58:52.782231 [info]: [09:58:52] [Server thread/INFO]: Saving players
+
+2020-05-11 09:58:52.782826 [info]: [09:58:52] [Server thread/INFO]: Saving worlds
+
+2020-05-11 09:58:52.783800 [info]: [09:58:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+
+2020-05-11 09:58:53.913932 [info]: [09:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+
+2020-05-11 09:58:53.914017 [info]: [09:58:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+
+2020-05-11 09:58:53.914808 [info]: [09:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+
+2020-05-11 09:58:53.915035 [info]: [09:58:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+
+2020-05-11 09:58:53.915461 [info]: [09:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+
+2020-05-11 09:58:53.919136 [info]: [09:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+
+2020-05-11 09:58:54.048589 [info]: [09:58:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+
+2020-05-11 09:58:54.050672 [info]: [09:58:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+
+2020-05-11 12:08:22.919932 [info]: [12:08:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+
+2020-05-11 12:08:22.945544 [info]: [12:08:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+
+2020-05-11 12:08:22.950906 [info]: [12:08:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+
+2020-05-11 12:08:22.953651 [info]: [12:08:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+
+2020-05-11 12:08:22.955994 [info]: [12:08:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+
+2020-05-11 12:08:23.160416 [info]: [12:08:23] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[12:08:23] [Server thread/INFO]: Loading properties
+[12:08:23] [Server thread/INFO]: Default game type: SURVIVAL
+
+2020-05-11 12:08:23.161387 [info]: [12:08:23] [Server thread/INFO]: Generating keypair
+
+2020-05-11 12:08:23.486541 [info]: [12:08:23] [Server thread/INFO]: Starting Minecraft server on *:0
+
+2020-05-11 12:08:23.611988 [info]: [12:08:23] [Server thread/INFO]: Using epoll channel type
+
+2020-05-11 12:08:23.964205 [info]: [12:08:23] [Server thread/INFO]: Preparing level "world"
+
+2020-05-11 12:08:24.557714 [info]: [12:08:24] [Server thread/INFO]: Reloading ResourceManager: Default
+
+2020-05-11 12:08:25.229065 [info]: [12:08:25] [Server thread/INFO]: Loaded 6 recipes
+
+2020-05-11 12:08:25.735768 [info]: [12:08:25] [Server thread/INFO]: Loaded 825 advancements
+
+2020-05-11 12:08:26.892480 [info]: [12:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+
+2020-05-11 12:08:30.726887 [info]: [12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:30.728129 [info]: [12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:30.741522 [info]: [12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:30.743525 [info]: [12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:30.748942 [info]: [12:08:30] [Server thread/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.287678 [info]: [12:08:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.290404 [info]: [12:08:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.291252 [info]: [12:08:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.291425 [info]: [12:08:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.295868 [info]: [12:08:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.297977 [info]: [12:08:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.298867 [info]: [12:08:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.304111 [info]: [12:08:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.305388 [info]: [12:08:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.306885 [info]: [12:08:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.311600 [info]: [12:08:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:36.547989 [info]: [12:08:36] [Server thread/INFO]: Preparing spawn area: 0%
+
+2020-05-11 12:08:39.123128 [info]: [12:08:39] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:39.142022 [info]: [12:08:39] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:39.274819 [info]: [12:08:39] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:39.302763 [info]: [12:08:39] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:39.458768 [info]: [12:08:39] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:39.485078 [info]: [12:08:39] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:39.898593 [info]: [12:08:39] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:40.401914 [info]: [12:08:40] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:40.899164 [info]: [12:08:40] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:41.399163 [info]: [12:08:41] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+
+2020-05-11 12:08:41.899265 [info]: [12:08:41] [Server-Worker-3/INFO]: Preparing spawn area: 86%
+
+2020-05-11 12:08:42.401797 [info]: [12:08:42] [Server thread/INFO]: Preparing spawn area: 90%
+
+2020-05-11 12:08:42.899391 [info]: [12:08:42] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+
+2020-05-11 12:08:43.175433 [info]: [12:08:43] [Server thread/INFO]: Time elapsed: 16246 ms
+
+2020-05-11 12:08:43.175741 [info]: [12:08:43] [Server thread/INFO]: Done (19.183s)! For help, type "help"
+

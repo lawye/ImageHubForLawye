@@ -1,0 +1,112 @@
+By using this application, you agree to our Privacy Policy, Terms of Use and End User License Agreement.
+https://www.resilio.com/legal/privacy
+https://www.resilio.com/legal/terms-of-use
+https://www.resilio.com/legal/eula
+
+3ef5/.sync/settings.dat with status 2.
+[20200511 12:41:09.584] VerifyFileWithHash failed on file /home/WinFiles/SMCD/logs/8d9f8f20-44a5-4a64-85a5-b17de9ab3ef5/.sync/settings.dat with status 2.
+[20200511 12:41:09.584] VerifyFileWithHash failed on file /home/WinFiles/SMCD/logs/8d9f8f20-44a5-4a64-85a5-b17de9ab3ef5/.sync/settings.dat with status 2.
+[20200511 12:41:09.585] ZIP: Can't locate [version] in zip, error -100.
+[20200511 12:41:09.586] VerifyFileWithHash failed on file ./.sync//settings.dat with status 2.
+[20200511 12:41:09.586] VerifyFileWithHash failed on file ./.sync//settings.dat with status 2.
+[20200511 12:41:09.586] VerifyFileWithHash failed on file ./.sync//settings.dat with status 2.
+[20200511 12:41:09.623] VerifyFileWithHash failed on file ./.sync//sync.dat with status 2.
+[20200511 12:41:09.623] VerifyFileWithHash failed on file ./.sync//sync.dat with status 2.
+[20200511 12:41:09.624] VerifyFileWithHash failed on file ./.sync//sync.dat with status 2.
+[20200511 12:41:09.624] Failed to find/load sync.dat - 2
+[20200511 12:41:09.624] test sha1: AE5BD8EFEA5322C4D9986D06680A781392F9A642
+[20200511 12:41:09.624] test sha2: 630DCD2966C4336691125448BBB25B4FF412A49C732DB2C8ABC1B8581BD710DD
+[20200511 12:41:09.624] test aes: 0A940BB5416EF045F1C39458C653EA5A07FEEF74E1D5036E900EEE118E949293
+[20200511 12:41:09.625] DISKIO[0x000055826d3089b0]: Create diskio pool for drive with id 18446744073709551614, path: , type: 0, size: 1
+[20200511 12:41:09.625] WORKER[0x000055826d308c20]: created
+[20200511 12:41:09.625] DISKIO[0x000055826d3089b0]: created
+[20200511 12:41:09.627] WORKER[0x000055826d308820]: created
+[20200511 12:41:09.627] WORKER[0x000055826d309260]: created
+[20200511 12:41:09.628] WORKER[0x000055826d308820]: thread start
+[20200511 12:41:09.628] WORKER[0x000055826d309560]: created
+[20200511 12:41:09.628] WORKER[0x000055826d309260]: thread start
+[20200511 12:41:09.628] WORKER[0x000055826d309860]: created
+[20200511 12:41:09.628] WORKER[0x000055826d309c00]: created
+[20200511 12:41:09.628] WORKER[0x000055826d309860]: thread start
+[20200511 12:41:09.629] WORKER[0x000055826d309c00]: thread start
+[20200511 12:41:09.629] WORKER[0x000055826d309560]: thread start
+[20200511 12:41:09.632] DISK_WORKER[0x000055826d308c20]: diskio thread start, drive_id = 18446744073709551614, priority = normal
+[20200511 12:41:09.689] register completion queue with id 0
+[20200511 12:41:09.689] register completion queue with id 0
+[20200511 12:41:09.689] register completion queue with id 0
+[20200511 12:41:09.689] 20PeerListenConnection::listen[0x000055826d3109d0][10] bound listening socket 10 to IP 0.0.0.0:48882
+[20200511 12:41:09.690] 20PeerListenConnection::listen[0x000055826d310a10][11] bound listening socket 11 to IP [::]:48882
+[20200511 12:41:09.690] UDP: UDP: bound listening socket 12 to IP 0.0.0.0:48882
+[20200511 12:41:09.690] UDP: UDP: bound listening socket 13 to IP [::]:48882
+[20200511 12:41:09.691] SE_HTTP_UI_INIT_ERROR - Failed to bind to 127.0.0.1:8888
+[20200511 12:41:09.691] Unable to init WebUI. Exiting...
+[20200511 12:41:09.691] Quit reason: Unable to init WebUI. Exiting...
+[20200511 12:41:09.692] webui thread start
+[20200511 12:41:09.705] register completion queue with id 1
+[20200511 12:41:09.705] register completion queue with id 1
+[20200511 12:41:09.705] register completion queue with id 1
+[20200511 12:41:11.347] IPv6 is installed
+[20200511 12:41:11.349] Unsupported or empty sync.dat file
+[20200511 12:41:11.349] My PeerID: 10B64247748F5589643858B4EF9DF7123E227505
+[20200511 12:41:11.349] LC: LoadLicenses: there is no pro license
+[20200511 12:41:11.350] VerifyFileWithHash failed on file ./.sync//history.dat with status 2.
+[20200511 12:41:11.350] VerifyFileWithHash failed on file ./.sync//history.dat with status 2.
+[20200511 12:41:11.350] VerifyFileWithHash failed on file ./.sync//history.dat with status 2.
+[20200511 12:41:11.351] Joining on interface enp2s0
+[20200511 12:41:11.352] Joining on interface lo
+[20200511 12:41:11.352] Joining to the multicast group 239.192.0.0:3838 on interface 127.0.0.1
+[20200511 12:41:11.352] Joining to the multicast group [ff08::f:5f:1c:6f]:3838 on interface ::1
+[20200511 12:41:11.354] Joining on interface wlp3s0
+[20200511 12:41:11.354] Joining to the multicast group 239.192.0.0:3838 on interface 192.168.1.106
+[20200511 12:41:11.360] Scheduler: Apply global rule, download limit: -1, upload limit: -1
+[20200511 12:41:11.361] message thread start
+[20200511 12:41:11.362] SYS_RES: drive "/", id: 2053, capacity: 52043530240, free_space: 26891665408
+[20200511 12:41:11.363] SYS_RES: drive "/home", id: 2067, capacity: 55772545024, free_space: 2983743488
+[20200511 12:41:11.364] SYS_RES: drive "/home/WinFiles", id: 2066, capacity: 618078445568, free_space: 256394141696
+[20200511 12:41:11.419] saved history: 0 events
+[20200511 12:41:11.631] SyncFolderScanner: shut down
+[20200511 12:41:11.632] unregister completion queue with id 1
+[20200511 12:41:11.632] unregister completion queue with id 1
+[20200511 12:41:11.632] message thread stop
+[20200511 12:41:11.632] GS: shutdown
+[20200511 12:41:11.721] DISKIO[0x000055826d3089b0]: stopping service threads
+[20200511 12:41:11.721] DISK_WORKER[0x000055826d308c20]: diskio thread stop, drive_id = 18446744073709551614
+[20200511 12:41:11.722] DISKIO[0x000055826d3089b0]: service threads stopped
+[20200511 12:41:11.722] WORKER[0x000055826d308c20]: deleted
+[20200511 12:41:11.722] DISKIO[0x000055826d3089b0]: deleted
+[20200511 12:41:11.722] WORKER[0x000055826d308820]: thread stop
+[20200511 12:41:11.722] WORKER[0x000055826d308820]: deleted
+[20200511 12:41:11.722] WORKER[0x000055826d309260]: thread stop
+[20200511 12:41:11.723] WORKER[0x000055826d309260]: deleted
+[20200511 12:41:11.723] WORKER[0x000055826d309560]: thread stop
+[20200511 12:41:11.723] WORKER[0x000055826d309560]: deleted
+[20200511 12:41:11.723] WORKER[0x000055826d309860]: thread stop
+[20200511 12:41:11.724] WORKER[0x000055826d309860]: deleted
+[20200511 12:41:11.726] webui thread stop
+[20200511 12:41:16.890] Torrent session shutdown: done waiting
+[20200511 12:41:16.891] Stopping network threads
+[20200511 12:41:16.909] Network_ReleaseSockets: deleting 16UDPSocketManager
+[20200511 12:41:16.909] UDP: Stopping UDP threads for 0.0.0.0:48882
+[20200511 12:41:16.999] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20200511 12:41:17.002] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20200511 12:41:17.002] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20200511 12:41:17.003] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20200511 12:41:17.003] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20200511 12:41:17.003] Network_ReleaseSockets: deleting 16DatagramSocketV6
+[20200511 12:41:17.003] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20200511 12:41:17.003] Network_ReleaseSockets: deleting 16DatagramSocketV6
+[20200511 12:41:17.004] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20200511 12:41:17.005] Network_ReleaseSockets: deleting 15NatPmpUdpSocket
+[20200511 12:41:17.005] Network_ReleaseSockets: deleting 24UpnpNotifyListenerSocket
+[20200511 12:41:17.005] Network_ReleaseSockets: deleting 19UpnpBroadcastSocket
+[20200511 12:41:17.005] Network_ReleaseSockets: deleting 19UpnpBroadcastSocket
+[20200511 12:41:17.005] Network_ReleaseSockets: deleting 13NetlinkSocket
+[20200511 12:41:17.005] Network_ReleaseSockets: deleting 20PeerListenConnection
+[20200511 12:41:17.006] Network_ReleaseSockets: deleting 20PeerListenConnection
+[20200511 12:41:17.006] Network_ReleaseSockets: deleting 7EventFD
+[20200511 12:41:17.007] Network_ReleaseSockets: deleting 16UDPSocketManager
+[20200511 12:41:17.007] UDP: Stopping UDP threads for [::]:48882
+[20200511 12:41:17.099] Network_ReleaseSockets: all sockets have been released
+[20200511 12:41:17.099] WORKER[0x000055826d309c00]: thread stop
+[20200511 12:41:17.100] WORKER[0x000055826d309c00]: deleted
+[20200511 12:41:17.100] Shutdown. Saving config sync.dat
